@@ -44,7 +44,7 @@ class Forest(object):
     def __init__(self, database:object, language:str='en'):
 
         """
-            Takes three(3) arguements with two(2) given default values;
+            Takes two(2) arguements with one(1) given default values;
             
         Args:
             database: A panda dataframe object.
@@ -114,7 +114,7 @@ class Rengine(object):
     # Recommendation function
     def make_query(self, text:str, forest:object, permutations:int, num_recommendations:int=5):
         """
-        Recommendation function, takes three(3) arguements with one(1) given default values;
+        Recommendation function, takes four(4) arguements with one(1) given default values;
                 
         Args:
             text: The text to be querried for recommendation.
