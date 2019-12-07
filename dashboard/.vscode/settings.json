@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.scn.json": "jsonc"
+    },
+    "python.pythonPath":"C:\\Users\\cho2n\\Desktop\\Doctorate Research\\code\\data_env\\Scripts\\python.exe"
+}
