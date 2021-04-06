@@ -1,6 +1,0 @@
-[submodule "AP"]
-	path = AP
-	url = https://github.com/choakumndi/Research/AP.git
-[submodule "AP research"]
-	path = AP research
-	url = https://github.com/choakumndi/Research/AP research.git
